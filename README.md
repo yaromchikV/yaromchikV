@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yaromchikV
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning Android SDK and Kotlin
+- 📫 How to reach me vladislav.yaromchik@gmail.com
