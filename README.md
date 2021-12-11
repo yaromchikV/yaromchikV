@@ -30,8 +30,11 @@
 <details open>
 <summary> 💼 Projects </summary>
 
-  - Money Manager + Currency Converter <i>(Clean Architecture, MVVM, Dagger-Hilt, Room, Jetpack Navigation, Retrofit, Moshi, Coroutines, MPAndroidChart, Shared preferences, Mockito)</i> - [GitHub](https://github.com/yaromchikV/Money-Manager)
-  - Music Streaming Player <i>(MVVM, Dagger-Hilt, MediaBrowserService with notify, Glide)</i> - [GitHub](https://github.com/yaromchikV/Music-Player)
-  - The Cats <i>(MVVM, Paging3, Retrofit, Coil, Kotlin-DSL, detekt, ktlint)</i> - [GitHub](https://github.com/yaromchikV/The-Cats)
-  - ...and more [here](https://github.com/yaromchikV?tab=repositories)
+  - Money Manager + Currency Converter - [GitHub](https://github.com/yaromchikV/Money-Manager)  
+  <i>(Clean Architecture, MVVM, Dagger-Hilt, Room, Jetpack Navigation, Retrofit, Moshi, Coroutines, MPAndroidChart, Shared preferences, Mockito)</i>
+  - Music Streaming Player - [GitHub](https://github.com/yaromchikV/Music-Player)  
+  <i>(MVVM, Dagger-Hilt, MediaBrowserService with notify, Glide)</i>
+  - The Cats - [GitHub](https://github.com/yaromchikV/The-Cats)  
+  <i>(MVVM, Paging3, Retrofit, Coil, Kotlin-DSL, detekt, ktlint)</i>
+  - ...and more projects [here](https://github.com/yaromchikV?tab=repositories)
 </details>
