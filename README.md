@@ -2,9 +2,9 @@
   Hi 👋, I'm Vladislav Yaromchik
 </h1>
 
-<h4>
-  I am an Android developer with a year of experience in developing and designing mobile applications. I am a self-motivated person with a great enthusiasm for learning and strong organizational and social skills. I'm constantly learning and applying new technologies and trying to improve myself not to get behind in this rapidly changing industry.
-</h4>
+<b>
+  I am an Android Developer with a year of experience in developing and designing mobile applications. I am a self-motivated person with a great enthusiasm for learning and strong organizational and social skills. I'm constantly learning and applying new technologies and trying to improve myself not to get behind in this rapidly changing industry.
+</b>
 
 ## 📫 How to reach me 
 
