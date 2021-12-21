@@ -17,9 +17,8 @@
 
   - Kotlin, Java
   - Android SDK
-  - Android Architecture Components
-  - OOP
-  - SOLID
+  - Android Jetpack
+  - OOP, SOLID
   - Git
 
 ## 💼 Projects
