@@ -40,4 +40,7 @@
   - Pomodoro Timer - [Github](https://github.com/yaromchikV/Pomodoro-Timer)  
 <i>(Coroutines, Foreground Service, Custom View)</i>
   - ...will be more projects soon...
-  
+
+## 📊 Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yaromchikV&theme=github_dark&layout=compact&card_width=600)](https://github.com/yaromchikV?tab=repositories) 
