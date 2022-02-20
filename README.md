@@ -32,7 +32,7 @@
   - Weather App - [GitHub](https://github.com/yaromchikV/Weather-App)  
 <i>(Clean Architecture, MVP, Dagger-Hilt, RxJava, Retrofit, Timber)</i>
   - Music Streaming Player - [GitHub](https://github.com/yaromchikV/Music-Player)  
-<i>(MVVM, Dagger-Hilt, MediaBrowserService, Glide)</i>
+<i>(MVVM, Dagger-Hilt, ExoPlayer, Glide)</i>
   - The Cats - [GitHub](https://github.com/yaromchikV/The-Cats)  
 <i>(MVVM, Paging3, Retrofit, Coil, Kotlin-DSL, detekt, ktlint)</i>
   - E-Cars - [GitHub](https://github.com/yaromchikV/E-Cars)  
